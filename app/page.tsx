@@ -135,7 +135,7 @@ export default function Chat() {
         </form>
 
         <p className="text-[10px] text-center text-slate-500 mt-2">
-          Généré via Vercel AI SDK v5 & Gemini.
+        Bouba Diouf
         </p>
       </footer>
     </div>
