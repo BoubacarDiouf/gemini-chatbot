@@ -32,7 +32,7 @@ export default function Chat() {
 
           <div>
             <h1 className="font-bold text-lg tracking-wide">
-              Gemini Chatbot
+              Bouba Chatbot
             </h1>
 
             <p className="text-xs text-emerald-400 flex items-center gap-1">
@@ -55,8 +55,7 @@ export default function Chat() {
             </h2>
 
             <p className="text-sm text-slate-400 max-w-sm">
-              Posez-moi n'importe quelle question. Je suis propulsé par
-              Google Gemini.
+              Posez-moi n'importe quelle question. Je suis là pour vous aider avec des réponses précises et rapides.
             </p>
           </div>
         ) : (
